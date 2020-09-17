@@ -8,7 +8,9 @@ Work for multi-shot compressive sensing with different noise <br>
 Work for multi-shot compressive sensing <br>
 4. compressive_sensing/laplace_generator.py <br>
 Noise generator <br>
-4. compressive_sensing/parse.py,compressive_sensing/parseways.py,compressive_sensing/plot.py <br>
+5. compressive_sensing/parse.py,<br>
+compressive_sensing/parseways.py,<br>
+compressive_sensing/plot.py <br>
 Results analysis <br>
 5.other methods/NILM_TCAS <br>
 AILP and IP for NILM <br>
@@ -41,15 +43,23 @@ REDD house appliances data<br>
 # some simple command
 
 1.compressive sensing:<br>
-`python compress_sensing.py`<br>
+```properties
+python compress_sensing.py
+```
 2.RNN:<br>
-`python rnndisaggregator.py`<br>
-`python redd-test.py`<br>
+```properties
+python rnndisaggregator.py
+python redd-test.py
+```
 3.SparseHMM:<br>
-`bash batch_BuildModels`<br>
-`bash batch_TestSparse`<br>
+```properties
+bash batch_BuildModels
+bash batch_TestSparse
+```
 4.ALIP or IP:<br>
-`matlab TCAS2Exp2_REDD1.m`
+```properties
+matlab TCAS2Exp2_REDD1.m
+```
 
 # Reference codes
 1. 
