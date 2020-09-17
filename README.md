@@ -8,15 +8,15 @@ Work for multi-shot compressive sensing with different noise
 Work for multi-shot compressive sensing
 4. compressive_sensing/laplace_generator.py
 Noise generator
-5. compressive_sensing/parse.py, compressive_sensing/parseways.py, compressive_sensing/plot.py
+5. compressive_sensing/parse.py compressive_sensing/parseways.py compressive_sensing/plot.py
 Results analysis
-6.other methods/NILM_TCAS
+6. other methods/NILM_TCAS
 AILP and IP for NILM
-7.other methods/NILMTK
+7. other methods/NILMTK
 CO and FHMM for NILM
-8.other methods/RNN 
+8. other methods/RNN 
 RNN for NILM
-9.other methods/SparseNILM-master
+9. other methods/SparseNILM-master
 SparseHMM for NILM
 
 
