@@ -1,24 +1,22 @@
 # Fuctions of different files 
 
-1. compressive_sensing/compress_sensing.py <br>
-Work for one-shot compressive sensing with different sparsity <br>
-2. compressive_sensing/compress_sensing_guassian.py <br>
-Work for multi-shot compressive sensing with different noise <br>
-3. compressive_sensing/compress_sensing_mutishot.py <br>
-Work for multi-shot compressive sensing <br>
-4. compressive_sensing/laplace_generator.py <br>
-Noise generator <br>
-5. compressive_sensing/parse.py,<br>
-compressive_sensing/parseways.py,<br>
-compressive_sensing/plot.py <br>
-Results analysis <br>
-5.other methods/NILM_TCAS <br>
-AILP and IP for NILM <br>
-6.other methods/NILMTK <br>
-CO and FHMM for NILM <br>
-7.other methods/RNN <br>
-RNN for NILM <br>
-8.other methods/SparseNILM-master <br>
+1. compressive_sensing/compress_sensing.py
+Work for one-shot compressive sensing with different sparsity
+2. compressive_sensing/compress_sensing_guassian.py
+Work for multi-shot compressive sensing with different noise
+3. compressive_sensing/compress_sensing_mutishot.py
+Work for multi-shot compressive sensing
+4. compressive_sensing/laplace_generator.py
+Noise generator
+5. compressive_sensing/parse.py, compressive_sensing/parseways.py, compressive_sensing/plot.py
+Results analysis
+6.other methods/NILM_TCAS
+AILP and IP for NILM
+7.other methods/NILMTK
+CO and FHMM for NILM
+8.other methods/RNN 
+RNN for NILM
+9.other methods/SparseNILM-master
 SparseHMM for NILM
 
 
@@ -63,7 +61,7 @@ matlab TCAS2Exp2_REDD1.m
 
 # Reference codes
 
-1. https://github.com/smakonin/SparseNILM
+1.https://github.com/smakonin/SparseNILM
 Makonin S, Popowich F, Bajić I V, et al. Exploiting HMM sparsity to perform online real-time nonintrusive load monitoring[J]. IEEE Transactions on smart grid, 2015, 7(6): 2575-2585.
 
 2.https://github.com/OdysseasKr/neural-disaggregator
@@ -72,6 +70,6 @@ Kelly J, Knottenbelt W. Neural nilm: Deep neural networks applied to energy disa
 3.http://www.sfu.ca/~ibajic/software/NILM-TCAS.rar
 Bhotto M Z A, Makonin S, Bajić I V. Load disaggregation based on aided linear integer programming[J]. IEEE Transactions on Circuits and Systems II: Express Briefs, 2016, 64(7): 792-796.
 
-#Contact us
+# Contact us
 
 If there are some problems in the codes' running, you're welcome to show it in issues or contact us with wanghaox19@mails.tsinghua.edu.cn.
