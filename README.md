@@ -29,7 +29,7 @@ NILMTK; keras; matlab; cvxpy
 
 # test requrirement
 
-1. compressive sensing:<br>
+1.compressive sensing:<br>
 data.xlsx: meter data<br>
 p_matrix.xlsx: power data<br>
 ground_truth.xlsx: ground truth varible matrix<br>
@@ -42,7 +42,7 @@ REDD house appliances data<br>
 
 # some simple command
 1.compressive sensing:<br>
-`python compress_sensing.py`
+`python compress_sensing.py`<br>
 2.RNN:<br>
 `python rnndisaggregator.py`<br>
 `python redd-test.py`<br>
@@ -51,3 +51,6 @@ REDD house appliances data<br>
 `bash batch_TestSparse`<br>
 4.ALIP or IP:<br>
 `matlab TCAS2Exp2_REDD1.m`
+
+# Reference codes
+1. 
