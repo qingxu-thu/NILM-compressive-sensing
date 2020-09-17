@@ -13,11 +13,11 @@ Noise generator <br>
 4. compressive_sensing/parse.py,compressive_sensing/parseways.py,compressive_sensing/plot.py <br>
 Results analysis <br>
 5.other methods/NILM_TCAS <br>
-AILP and IP for NILM
+AILP and IP for NILM <br>
 6.other methods/NILMTK <br>
-CO and FHMM for NILM
+CO and FHMM for NILM <br>
 7.other methods/RNN <br>
-RNN for NILM
+RNN for NILM <br>
 8.other methods/SparseNILM-master <br>
 SparseHMM for NILM
 
