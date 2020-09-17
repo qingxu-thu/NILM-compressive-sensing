@@ -62,4 +62,16 @@ matlab TCAS2Exp2_REDD1.m
 ```
 
 # Reference codes
-1. 
+
+1. https://github.com/smakonin/SparseNILM
+Makonin S, Popowich F, Bajić I V, et al. Exploiting HMM sparsity to perform online real-time nonintrusive load monitoring[J]. IEEE Transactions on smart grid, 2015, 7(6): 2575-2585.
+
+2.https://github.com/OdysseasKr/neural-disaggregator
+Kelly J, Knottenbelt W. Neural nilm: Deep neural networks applied to energy disaggregation[C]//Proceedings of the 2nd ACM International Conference on Embedded Systems for Energy-Efficient Built Environments. 2015: 55-64.
+
+3.http://www.sfu.ca/~ibajic/software/NILM-TCAS.rar
+Bhotto M Z A, Makonin S, Bajić I V. Load disaggregation based on aided linear integer programming[J]. IEEE Transactions on Circuits and Systems II: Express Briefs, 2016, 64(7): 792-796.
+
+#Contact us
+
+If there are some problems in the codes' running, you're welcome to show it in issues or contact us with wanghaox19@mails.tsinghua.edu.cn.
