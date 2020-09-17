@@ -22,12 +22,12 @@ RNN for NILM
 SparseHMM for NILM
 
 
-#Environment requirement
+# Environment requirement
 
 NILMTK; keras; matlab; cvxpy
 
 
-#test requrirement
+# test requrirement
 
 1. compressive sensing:<br>
 data.xlsx: meter data<br>
@@ -40,7 +40,7 @@ redd.h5: redd dataset h5 format<br>
 4.SparseHMM:<br>
 REDD house appliances data<br>
 
-#some simple command
+# some simple command
 1.compressive sensing:<br>
 `python compress_sensing.py`
 2.RNN:<br>
